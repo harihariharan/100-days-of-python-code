@@ -1,7 +1,7 @@
 # 100-days-of-python-code
 
 <h1 align="center">Hi 👋, I'm Hariharan J</h1>
-<h3 align="center">A passionate engineer from India</h3>
+<h3 align="center">I am practicing the python for 100 days.</h3>
 
 <p align="left">
 </p>
